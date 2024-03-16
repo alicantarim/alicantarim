@@ -1,10 +1,7 @@
-<h2 align="center">Hi 👋, I'm Alican</h2>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">Hi 👋, I'm Alican</h3>
 
 - 👨‍💻 I’m currently learning **Swift**
-
 -  I’m interested in **iOS Development**
-
 - 📫 How to reach me **alicantarim@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>

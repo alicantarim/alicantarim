@@ -4,7 +4,9 @@
 
 - 👨‍💻 I’m currently learning **Swift & UIKit | SwiftUI**
 -  I’m interested in **iOS Development**
-- 📫 How to reach me **alicantarim@hotmail.com**
+- 📫 How to reach me **alicantarim@hotmail.com** <br><br>
+**If you want, you can buy me a coffee** <br><br>
+<a href="https://www.buymeacoffee.com/alicantarim" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## 💻 My Skills <br>
 **Programming Languages:** <br>
@@ -61,4 +63,6 @@ Got an awesome idea or a challenging project? Hit me up at [**alicantarim@hotmai
 
 Thank you for visiting my GitHub repository.
 <br>
+
 [![](https://visitcount.itsvg.in/api?id=alicantarim&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+

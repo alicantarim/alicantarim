@@ -5,13 +5,17 @@
 - 👨‍💻 I’m currently learning **Swift & UIKit | SwiftUI**
 -  I’m interested in **iOS Development**
 - 📫 How to reach me **alicantarim@hotmail.com** <br><br>
-**If you want, you can buy me a coffee** <br><br>
+
+**If you want, you can buy me a coffee** <br>
 <a href="https://www.buymeacoffee.com/alicantarim" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## 💻 My Skills <br>
 **Programming Languages:** <br>
 ![Objective-C](https://img.shields.io/badge/objective--c-438EFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Interface:** <br>
 ![UIKit](https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=swift&logoColor=white)

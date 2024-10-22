@@ -1,6 +1,6 @@
-## 👋 Hi, I am Alican T.  
+## 👋 Hi, I'm Alican TARIM
 
-  Electrical Electronic Engineer | Software Developer | iOS Software Engineer
+**Electrical Electronic Engineer | Software Developer | iOS Software Engineer**
 
 - 👨‍💻 I’m currently learning **Swift & UIKit | SwiftUI**
 -  I’m interested in **iOS Development**

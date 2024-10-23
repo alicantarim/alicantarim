@@ -31,6 +31,8 @@
 ![Core Location](https://img.shields.io/badge/core%20location-00A4FF?style=for-the-badge&logo=swift&logoColor=white)
 ![MapKit](https://img.shields.io/badge/mapkit-0078D7?style=for-the-badge&logo=apple&logoColor=white)
 ![AVFoundation](https://img.shields.io/badge/avfoundation-FF2D55?style=for-the-badge&logo=apple&logoColor=white)
+![React](https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor=white)
+
 
 **Libraries:** <br>
 ![Alamofire](https://img.shields.io/badge/alamofire-EC5766?style=for-the-badge&logo=swift&logoColor=white)

@@ -15,7 +15,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 **Interface:** <br>
 ![UIKit](https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=swift&logoColor=white)
@@ -37,6 +37,7 @@
 **Libraries:** <br>
 ![Alamofire](https://img.shields.io/badge/alamofire-EC5766?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgresql-0052CC?style=for-the-badge&logo=Postgresql&logoColor=white)
 ![Realm](https://img.shields.io/badge/realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/rxswift-DD0B78?style=for-the-badge&logo=reactivex&logoColor=white)
 

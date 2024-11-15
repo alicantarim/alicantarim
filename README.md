@@ -25,7 +25,7 @@
 <h3>Version Control Systems</h3>
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=5" />
 
-<h2>📊 GitHub Stats</h2> 
+## 📊 GitHub Stats
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicantarim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="left">

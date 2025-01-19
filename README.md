@@ -5,25 +5,18 @@
 </div>
 
 <h2>💻 Technologies & Tools</h2>
-
 <h3>Main Technologies</h3>
 <img src="https://skillicons.dev/icons?i=swift,html,css,js,react,java,python,tailwind,bootstrap&theme=dark&perline=10" />
-
-<h3>Development Tools</h3>
-<img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark&perline=5" />
-
+<h3>Development Tools and Version Control Systems</h3>
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github&theme=dark&perline=5" />
 <h3>Libraries</h3>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,postman&theme=dark&perline=5" />
-
-<h3>Version Control Systems</h3>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=5" />
 
 ## 📊 GitHub Stats
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicantarim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="left">
   <h2>Let's Connect!</h2>
-  
   <a href="https://www.linkedin.com/in/alicantarim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6"/>
   </a>

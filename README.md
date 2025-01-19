@@ -4,13 +4,6 @@
   </a>
 </div>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-**If you want, you can buy me a coffee** <br>
-<a target="_parent" href="https://www.buymeacoffee.com/alicantarim" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
 <h2>💻 Technologies & Tools</h2>
 
 <h3>Main Technologies</h3>
@@ -48,10 +41,9 @@
 Got an awesome idea or a challenging project? Hit me up at [**alicantarim@hotmail.com**](mailto:alicantarim@hotmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/alicantarim/). I am always excited to collaborate on interesting projects or discuss iOS development ideas.
 
 Thank you for visiting my GitHub repository.
-<br>
 
-[![](https://visitcount.itsvg.in/api?id=alicantarim&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
-
+**If you want, you can buy me a coffee** <br>
+<a target="_parent" href="https://www.buymeacoffee.com/alicantarim" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" />
 </div>

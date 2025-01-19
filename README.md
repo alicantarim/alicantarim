@@ -44,6 +44,9 @@ Thank you for visiting my GitHub repository.
 
 **If you want, you can buy me a coffee** <br>
 <a target="_parent" href="https://www.buymeacoffee.com/alicantarim" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+<img src="https://komarev.com/ghpvc/?username=alicantarim">
+
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" />
 </div>

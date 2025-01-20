@@ -10,7 +10,7 @@
 <h3>Development Tools and Version Control Systems</h3>
 <img src="https://skillicons.dev/icons?i=vscode,figma,git,github&theme=dark&perline=5" />
 <h3>Libraries</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,postman&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,postman&theme=dark&perline=5" />
 
 ## 📊 GitHub Stats
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicantarim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

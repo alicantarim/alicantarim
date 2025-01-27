@@ -7,10 +7,8 @@
 <h2>💻 Technologies & Tools</h2>
 <h3>Main Technologies</h3>
 <img src="https://skillicons.dev/icons?i=swift,html,css,js,react,java,python,tailwind,bootstrap&theme=dark&perline=10" />
-<h3>Development Tools and Version Control Systems</h3>
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github&theme=dark&perline=5" />
-<h3>Libraries</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,postman&theme=dark&perline=5" />
+<h3>Dev Tools and Version Control and Libraries</h3>
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postgres,mongodb,firebase,supabase,postman&theme=dark&perline=5" />
 
 ## 📊 GitHub Stats
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicantarim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -37,9 +35,6 @@ Thank you for visiting my GitHub repository.
 
 **If you want, you can buy me a coffee** <br>
 <a target="_parent" href="https://www.buymeacoffee.com/alicantarim" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<img src="https://komarev.com/ghpvc/?username=alicantarim">
-
 <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" />
 </div>

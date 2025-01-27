@@ -10,9 +10,6 @@
 <h3>Dev Tools and Version Control and Libraries</h3>
 <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postgres,mongodb,firebase,supabase,postman&theme=dark&perline=5" />
 
-## 📊 GitHub Stats
-![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicantarim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <div align="left">
   <h2>Let's Connect!</h2>
   <a href="https://www.linkedin.com/in/alicantarim/" target="_blank">
@@ -32,6 +29,9 @@
 Got an awesome idea or a challenging project? Hit me up at [**alicantarim@hotmail.com**](mailto:alicantarim@hotmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/alicantarim/). I am always excited to collaborate on interesting projects or discuss iOS development ideas.
 
 Thank you for visiting my GitHub repository.
+
+## 📊 GitHub Stats
+![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicantarim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 **If you want, you can buy me a coffee** <br>
 <a target="_parent" href="https://www.buymeacoffee.com/alicantarim" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>

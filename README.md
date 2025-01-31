@@ -18,9 +18,11 @@
   <a href="https://x.com/alicantarim" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=8B5CF6"/>
   </a>
+  <!--
   <a href="https://www.instagram.com/alicantarim/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=8B5CF6"/>
   </a>
+  -->
   <a href="https://medium.com/@alicantarim" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=8B5CF6"/>
   </a>

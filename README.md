@@ -6,7 +6,7 @@
 
 <h2>💻 Technologies & Tools</h2>
 <h3>Main Technologies</h3>
-<img src="https://skillicons.dev/icons?i=swift,html,css,js,react,java,spring,python,tailwind,bootstrap,raspberrypi,arduino&theme=dark&perline=15" />
+<img src="https://skillicons.dev/icons?i=swift,html,css,js,nodejs,react,java,spring,tailwind,bootstrap,python,raspberrypi,arduino&theme=dark&perline=15" />
 <h3>Dev Tools and Version Control and Libraries</h3>
 <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postgres,mongodb,firebase,supabase,postman&theme=dark&perline=15" />
 
